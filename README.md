@@ -21,7 +21,7 @@ Python Version : 3.8
 Packages : pandas, numpy, sklearn, matplotlib, seaborn, plotly, cufflinks  
 Reference and article : Google  
 Project Motivation :[Krish Naik](https://www.youtube.com/user/krishnaik06)  
-Dataset can be found here: [Kaggle](http://www.Slideshare.net)   
+Dataset can be found here: [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/data)   
 
 
 ## Exploratory Data Analysis :
