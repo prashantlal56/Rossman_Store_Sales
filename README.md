@@ -75,7 +75,7 @@ Some of my findings are :
 
 ## Building and Implementing Machine Learning Models  
 First I split the dataset into train and test, then i performed ML model building and trained the model using engineered dataset.  
-With engineered dataset I tried to build **Random Foerst** model beacause the model's performance is not affected by an outliers  
+With engineered dataset I tried to build **Random Forest** model beacause the model's performance is not affected by an outliers  
 
 ## Model Evaluation   
 * **oob score** : 0.9228561536464273
